@@ -21,7 +21,7 @@ Week 2:
 Week 3:
   
 - [plurality](https://github.com/hel4s/CS50-2022/blob/main/week%203/plurality.c)
-- [runoff.c](https://github.com/hel4s/CS50-2022/blob/main/week%203/runoff.c)
+- [runoff](https://github.com/hel4s/CS50-2022/blob/main/week%203/runoff.c)
 - [tideman](https://github.com/hel4s/CS50-2022/blob/main/week%203/tideman.c)
 
 Week 4:
