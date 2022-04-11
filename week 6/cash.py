@@ -24,4 +24,4 @@ while (cents > 0):
         coins += 1
 
 # displays the total number of coins needed to give the change
-print(f"you are owed {coins} coins")
+print(f"Change owed{coins} ")
