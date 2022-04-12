@@ -43,4 +43,6 @@ Week 6:
 - [credit](https://github.com/hel4s/CS50-2022/blob/main/week%206/credit.py)
 - [cash](https://github.com/hel4s/CS50-2022/blob/main/week%206/cash.py)
 
-  
+Week 7:
+- [movies](https://github.com/hel4s/CS50-2022/tree/main/week%207/movies)
+- [fiftyville](https://github.com/hel4s/CS50-2022/tree/main/week%207/fiftyville)
