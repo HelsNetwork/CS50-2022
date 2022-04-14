@@ -46,3 +46,7 @@ Week 6:
 Week 7:
 - [movies](https://github.com/hel4s/CS50-2022/tree/main/week%207/movies)
 - [fiftyville](https://github.com/hel4s/CS50-2022/tree/main/week%207/fiftyville)
+
+Week 8:
+- [trivia](https://github.com/hel4s/CS50-2022/tree/main/Week%208/trivia)
+- [homepage]()
