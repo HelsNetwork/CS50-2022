@@ -1,0 +1,43 @@
+.bannerimage
+{
+  width: 100%;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.wallpapersafari.com%2F74%2F81%2F39f8Nh.jpg&f=1&nofb=1);
+  height: 405px;
+  background-color: purple;
+  background-position: center;
+}
+
+
+.barstyle
+{
+  overflow: hidden;
+  background-color: pink;
+}
+
+.nav-item
+{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size
+
+}
+
+.nav-item:hover
+{
+  background-color: black;
+  color: white;
+}
+.active
+{
+  background-color: black;
+  color: white;
+}
+
+.about
+{
+  text-align: center;
+  font-size: large
+}
