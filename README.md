@@ -50,3 +50,6 @@ Week 7:
 Week 8:
 - [trivia](https://github.com/hel4s/CS50-2022/tree/main/Week%208/trivia)
 - [homepage](https://github.com/hel4s/CS50-2022/tree/main/Week%208/homepage)
+
+Week 9:
+- [Birthdays](https://github.com/hel4s/CS50-2022/tree/main/Week%209)
