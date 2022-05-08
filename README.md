@@ -53,3 +53,8 @@ Week 8:
 
 Week 9:
 - [Birthdays](https://github.com/hel4s/CS50-2022/tree/main/Week%209)
+
+
+# Disclaimer
+
+Please read and follow the [Academic Honesty](https://cs50.harvard.edu/x/2022/honesty/)
